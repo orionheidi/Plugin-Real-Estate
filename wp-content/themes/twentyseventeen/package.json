@@ -1,0 +1,23 @@
+{
+  "name": "twentyseventeen",
+  "version": "1.0.0",
+  "description": "=== Twenty Seventeen ===\r Contributors: wordpressdotorg\r Tested up to: 5.0\r Version: 2.2\r License: GPLv2 or later\r License URI: http://www.gnu.org/licenses/gpl-2.0.html\r Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-qunit": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-tasks": "^5.1.0"
+  },
+  "dependencies": {
+    "jshint-stylish": "^2.2.1"
+  }
+}
